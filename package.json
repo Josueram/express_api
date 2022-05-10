@@ -1,0 +1,26 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "My first API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josueram/express_api.git"
+  },
+  "keywords": [
+    "API",
+    "Express"
+  ],
+  "author": "Josué Ramírez <josueramirez0110@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josueram/express_api/issues"
+  },
+  "homepage": "https://github.com/Josueram/express_api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
